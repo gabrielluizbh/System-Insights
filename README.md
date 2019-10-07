@@ -8,6 +8,9 @@ Disponivel também a apresentação em .pptx demostrada no vídeo.
 Conteúdo:
 
 Script com os comandos do System Insights (Informações do Sistema).ps1
+
 Script verifica em mais de um servidor se os recursos do System Insights (Informações do Sistema) estão habilitados.ps1
+
 Script verifica em mais de um servidor se os recursos do System Insights (Informações do Sistema) estão desabilitados.ps1
+
 Visão geral do System Insights (Informações do sistema) - Windows Server 2019.pptx
