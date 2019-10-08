@@ -13,4 +13,4 @@ Script verifica em mais de um servidor se os recursos do System Insights (Inform
 
 Script verifica em mais de um servidor se os recursos do System Insights (Informações do Sistema) estão desabilitados.ps1
 
-Visão geral do System Insights (Informações do sistema) - Windows Server 2019.pptx (Compactado). Apresentação em PowerPoint.
+Visão geral do System Insights (Informações do sistema) - Windows Server 2019.pptx (Compactado)
